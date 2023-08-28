@@ -1,6 +1,8 @@
 # OpenShift Activities
 
-This repository is based largely on what the [Visual Studio Code](https://github.com/microsoft/vscode) repository.  The way the `vscode` community organizes development is a source of inspiration for us.  In particular we like the way issues are used to track progress instead of more traditional Kanban style dashboards.
+This repository is based largely on what the [Visual Studio Code](https://github.com/microsoft/vscode) repository.  The way the `vscode` community organizes development is a source of inspiration for us.  In particular we like the way issues are used to track progress instead of more traditional Kanban style dashboards : 
+
+"On the Visual Studio Code team, [we use GitHub issues to track all of our work](https://code.visualstudio.com/blogs/2020/05/06/github-issues-integration). From our detailed iteration plans to individual bugs, we track everything as GitHub issues." 
 
 ## The Repository
 
