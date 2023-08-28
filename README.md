@@ -6,7 +6,7 @@ This repository is based largely on what the [Visual Studio Code](https://github
 
 This repository is where we develop the our understanding of [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) for interacting with and distributing meteorological data. Iterations below point to "high-level" issues that list goals and specific tasks, which are to be annotated as per the legend below.
 
-- [ ] September 2023
+- [ ] [September 2023](https://github.com/ymoisan/openshift-activities/issues)
 
 Legend of annotations:
 
